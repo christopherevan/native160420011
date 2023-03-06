@@ -14,4 +14,6 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
     }
+
+    // TODO: create main features
 }
